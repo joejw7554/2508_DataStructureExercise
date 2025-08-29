@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:JWDataStructureExercise\\JWDataStructureExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:JWDataStructureExercise\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:JWDataStructureExercise\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JWDataStructureExercise.cpp",
-              "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise.cpp",
-              "RelativeDocumentMoniker": "JWDataStructureExercise\\JWDataStructureExercise.cpp",
-              "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise.cpp",
-              "RelativeToolTip": "JWDataStructureExercise\\JWDataStructureExercise.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Main.cpp",
+              "RelativeDocumentMoniker": "JWDataStructureExercise\\Main.cpp",
+              "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Main.cpp",
+              "RelativeToolTip": "JWDataStructureExercise\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-27T00:38:09.698Z",
+              "WhenOpened": "2025-08-27T01:00:53.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Array.h",
+              "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Array.h",
+              "RelativeDocumentMoniker": "JWDataStructureExercise\\Array.h",
+              "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Array.h",
+              "RelativeToolTip": "JWDataStructureExercise\\Array.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T00:46:45.453Z",
               "EditorCaption": ""
             }
           ]
