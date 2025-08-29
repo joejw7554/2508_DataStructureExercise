@@ -8,14 +8,16 @@ int main()
 	JWArray<int> myArr(5);
 
 	myArr.Pushback(10);
-	myArr.Pushback(20);
 	myArr.Pushback(30);
 	myArr.Pushback(40);
-	myArr.Pushback(50);
 
+	myArr.Insert(1, 20);
+
+	myArr.Find(30);
 	myArr.Display();
 
-	cout << myArr[0] << endl;
+	myArr.Clear();
+
 
 
 	return 0;
