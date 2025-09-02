@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:JWDataStructureExercise\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CSelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:Sort\\CSelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CSelectionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:Sort\\CSelectionSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:JWDataStructureExercise\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\CInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:JWDataStructureExercise\\CInsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CBubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:Sort\\CBubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CBubbleSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E700ACDE-ECC7-4542-8DE8-212A2520A9CC}|JWDataStructureExercise\\JWDataStructureExercise.vcxproj|solutionrelative:Sort\\CBubbleSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSelectionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CSelectionSort.cpp",
+              "RelativeDocumentMoniker": "Sort\\CSelectionSort.cpp",
+              "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CSelectionSort.cpp",
+              "RelativeToolTip": "Sort\\CSelectionSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-01T13:08:50.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CSelectionSort.h",
+              "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CSelectionSort.h",
+              "RelativeDocumentMoniker": "Sort\\CSelectionSort.h",
+              "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CSelectionSort.h",
+              "RelativeToolTip": "Sort\\CSelectionSort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-01T13:08:49.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CBubbleSort.h",
+              "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CBubbleSort.h",
+              "RelativeDocumentMoniker": "Sort\\CBubbleSort.h",
+              "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CBubbleSort.h",
+              "RelativeToolTip": "Sort\\CBubbleSort.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-31T11:36:59.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CBubbleSort.cpp",
+              "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CBubbleSort.cpp",
+              "RelativeDocumentMoniker": "Sort\\CBubbleSort.cpp",
+              "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\Sort\\CBubbleSort.cpp",
+              "RelativeToolTip": "Sort\\CBubbleSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-31T11:36:46.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Main.cpp",
               "RelativeDocumentMoniker": "JWDataStructureExercise\\Main.cpp",
               "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Main.cpp",
               "RelativeToolTip": "JWDataStructureExercise\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-27T01:00:53.636Z",
+              "WhenOpened": "2025-08-31T11:35:00.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Array.h",
-              "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Array.h",
-              "RelativeDocumentMoniker": "JWDataStructureExercise\\Array.h",
-              "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\Array.h",
-              "RelativeToolTip": "JWDataStructureExercise\\Array.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-27T00:46:45.453Z",
+              "DocumentIndex": 3,
+              "Title": "CInsertionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\CINSERTIONSORT.CPP",
+              "RelativeDocumentMoniker": "JWDataStructureExercise\\CINSERTIONSORT.CPP",
+              "ToolTip": "C:\\Users\\joejw\\Desktop\\2508_DataStructureExercise\\JWDataStructureExercise\\JWDataStructureExercise\\CINSERTIONSORT.CPP",
+              "RelativeToolTip": "JWDataStructureExercise\\CINSERTIONSORT.CPP",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-31T11:37:15.281Z",
               "EditorCaption": ""
             }
           ]

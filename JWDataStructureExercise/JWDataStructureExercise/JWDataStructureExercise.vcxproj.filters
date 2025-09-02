@@ -16,15 +16,39 @@
     <Filter Include="소스 파일\Array">
       <UniqueIdentifier>{32ab5f2a-e7a3-41d2-892b-d160ad7cb08a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Sort">
+      <UniqueIdentifier>{96b35c0f-95dc-4616-9a9d-59a2e61f9cfe}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Array.h">
       <Filter>소스 파일\Array</Filter>
     </ClInclude>
+    <ClInclude Include="..\Sort\CBubbleSort.h">
+      <Filter>소스 파일\Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sort\CSelectionSort.h">
+      <Filter>소스 파일\Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sort\CInsertionSort.h">
+      <Filter>소스 파일\Sort</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CInsertionSort.cpp">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sort\CBubbleSort.cpp">
+      <Filter>소스 파일\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sort\CSelectionSort.cpp">
+      <Filter>소스 파일\Sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
